@@ -1,0 +1,29 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "NC1",
+      "localizations": [
+        {
+          "description": "Auto-generate a clean weekly summary export of your hours and tasks.",
+          "displayName": "Weekly Summary Export",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.internlog.pro",
+      "referenceName": "Internlog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
